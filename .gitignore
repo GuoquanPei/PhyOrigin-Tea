@@ -1,0 +1,17 @@
+__pycache__/
+.pytest_cache/
+.venv/
+tmp/
+chapter3_segmentation/data/images/
+chapter3_segmentation/runs/
+third_party/
+external/
+.venv-sam3/
+*.pyc
+weights/
+ultralytics-main/
+chapter3_segmentation/data/
+*.tar.gz
+*.pt
+*.pth
+.venv-sam3*/

@@ -1,0 +1,10 @@
+# Install the original Meta repository with [train] using setup_sam3.sh first.
+# Python 3.12 for this lock; setup pins torch 2.7.1 / torchvision 0.22.1 CUDA 12.6.
+PyYAML>=6.0,<7
+setuptools<82
+numpy==1.26.4
+Pillow>=10.3
+pycocotools==2.0.8
+opencv-python==4.11.0.86
+einops>=0.8,<1
+psutil>=5.9,<8
